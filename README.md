@@ -7,7 +7,7 @@ A Simple Logging Facade for Scala (SLF4S) built on top of SLF4J.
 * Call by macro expansion (call by name in Scala 2.9);
 * A Logging mixin for conveniently obtaining a Logger;
 * A LoggerFactory that is `ClassTag` aware;
-* Built for Scala 2.9, 2.10 and 2.11;
+* Built for Scala 2.9, 2.10, 2.11 and 2.12;
 * Tested on Java 6, 7 and 8; and
 * Tracks [slf4j](http://www.slf4j.org/) releases.
 
